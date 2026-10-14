@@ -1,0 +1,11 @@
+khali@khalid UCRT64 ~/Desktop/git - projects/mcino-Introduction-to-Git-and-GitHub (bug-fix-typo)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+khali@khalid UCRT64 ~/Desktop/git - projects/mcino-Introduction-to-Git-and-GitHub (main)
+$ git merge bug-fix-typo 
+Updating ad95b0a..bbe6c02
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
