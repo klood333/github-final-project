@@ -1,0 +1,4 @@
+ git branch -vv
+  bug-fix-revert 7b9371a changing the year again
+  bug-fix-typo   bbe6c02 change the year in the READ.ME
+* main           7b9371a [origin/main] changing the year again
